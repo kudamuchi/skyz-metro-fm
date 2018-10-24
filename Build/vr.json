@@ -1,0 +1,13 @@
+{
+"companyName": "imaginestudios",
+"productName": "vicfalls VR 2",
+"dataUrl": "vr.data.unityweb",
+"asmCodeUrl": "vr.asm.code.unityweb",
+"asmMemoryUrl": "vr.asm.memory.unityweb",
+"asmFrameworkUrl": "vr.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
